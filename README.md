@@ -1,24 +1,45 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**zzZJagerZzz/zzZJagerZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+</div>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Languages and Frameworks**
 
-<!-- Header -->
+<br>
 
-<!-- About me -->
+<img src="./assets/icons/javascript-icon.svg" width="60" height="60"/>
+<img src="./assets/icons/python-icon.svg" width="60" height="60" />
+<img src="./assets/icons/react-icon.svg" width="60" height="60" />
 
-# Languages and Tools
-[[!Javascript]('https://github.com/zzZJagerZzz/zzZJagerZzz/blob/root/assets/icons/javascript-icon.svg')]
-# CodeWars
+<br>
+</div>
+<hr>
+<br>
+
+<div align="center">
+
+## **Tools**
+
+<br>
+
+<img src="./assets/icons/vscode-icon.svg" width="60" height="60" />
+<img src="./assets/icons/jetbrains-icon.svg" width="60" height="60" />
+
+<br>
+</div>
+<hr>
+<br>
+
+<div align="center">
+
+## **CodeWars**
+
+<br>
+
+<img src="https://www.codewars.com/users/zzZJagerZzz/badges/large" />
+
+</div>
+
+
