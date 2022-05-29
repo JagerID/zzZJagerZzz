@@ -14,7 +14,6 @@
 <br>
 </div>
 <hr>
-<br>
 
 <div align="center">
 
@@ -28,7 +27,6 @@
 <br>
 </div>
 <hr>
-<br>
 
 <div align="center">
 
