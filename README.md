@@ -1,11 +1,9 @@
-<div align="center">
 
 # Hi there 👋
 
-</div>
 <div align="center">
 
-## **Languages and Frameworks**
+### **Languages and Frameworks**
 
 <br>
 
@@ -20,7 +18,7 @@
 
 <div align="center">
 
-## **Tools**
+### **Tools**
 
 <br>
 
@@ -34,7 +32,7 @@
 
 <div align="center">
 
-## **CodeWars**
+### **CodeWars**
 
 <br>
 
