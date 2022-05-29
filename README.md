@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- About me -->
 
-Languages and Tools
-
-
-
-CodeWars
+# Languages and Tools
+[[!Javascript]('https://github.com/zzZJagerZzz/zzZJagerZzz/blob/root/assets/icons/javascript-icon.svg')]
+# CodeWars
