@@ -14,8 +14,6 @@
 
 ---
 
-<br/>
-
 ### Languages / Frameworks / etc
 
 <div>
@@ -31,7 +29,6 @@
 <div>
 <img src="./assets/icons/python.svg" title="Python" width="48" height="48" />
 </div>
-<br/>
 
 ### Tools
 
@@ -41,8 +38,6 @@
 </div>
 
 ---
-
-<br/>
 
 ### Learning
 
@@ -54,8 +49,6 @@
 </div>
 
 ---
-
-<br/>
 
 ### CodeWars
 
