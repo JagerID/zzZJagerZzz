@@ -2,14 +2,14 @@
 
 ### Social Medias
 
-<a href="https://discord.com/channels/861886316475318282">
-  <img alt="Discord" target="_blank" title="Discord" height="48" width="48" src="./assets/icons/discord.svg" />
+<a href="https://discord.com/channels/861886316475318282" target="_blank">
+  <img alt="Discord" title="Discord" height="48" width="48" src="./assets/icons/discord.svg" />
 </a>
-<a href="https://t.me/JagerID">
-  <img alt="Telegram" target="_blank" title="Telegram" height="48" width="48" src="./assets/icons/telegram.svg" />
+<a href="https://t.me/JagerID" target="_blank">
+  <img alt="Telegram" title="Telegram" height="48" width="48" src="./assets/icons/telegram.svg" />
 </a>
-<a href="https://github.com/zzZJagerZzz">
-  <img alt="GitHub" target="_blank" title="GitHub" height="48" width="48" src="./assets/icons/github.svg">
+<a href="https://github.com/zzZJagerZzz" target="_blank">
+  <img alt="GitHub" title="GitHub" height="48" width="48" src="./assets/icons/github.svg">
 </a>
 
 ---
