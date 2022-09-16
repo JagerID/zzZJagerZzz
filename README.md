@@ -3,7 +3,7 @@
 ### Social Medias
 
 <a href="https://discord.com/channels/861886316475318282">
-  <img alt="Discord" title="Discord" height="48" width="48" src="./assets/icons/discord.svg" />
+  <img alt="Discord" target="_blank" title="Discord" height="48" width="48" src="./assets/icons/discord.svg" />
 </a>
 <a href="https://t.me/JagerID">
   <img alt="Telegram" title="Telegram" height="48" width="48" src="./assets/icons/telegram.svg" />
