@@ -6,10 +6,10 @@
   <img alt="Discord" target="_blank" title="Discord" height="48" width="48" src="./assets/icons/discord.svg" />
 </a>
 <a href="https://t.me/JagerID">
-  <img alt="Telegram" title="Telegram" height="48" width="48" src="./assets/icons/telegram.svg" />
+  <img alt="Telegram" target="_blank" title="Telegram" height="48" width="48" src="./assets/icons/telegram.svg" />
 </a>
 <a href="https://github.com/zzZJagerZzz">
-  <img alt="GitHub" title="GitHub" height="48" width="48" src="./assets/icons/github.svg">
+  <img alt="GitHub" target="_blank" title="GitHub" height="48" width="48" src="./assets/icons/github.svg">
 </a>
 
 ---
