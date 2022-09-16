@@ -18,22 +18,27 @@
 
 ### Languages / Frameworks / etc
 
+<div>
 <img src="./assets/icons/javascript.svg" title="JavaScript" width="48" height="48"/>
 <img src="./assets/icons/react.svg" title="React" width="48" height="48" />
 <img src="./assets/icons/redux.svg" title="Redux" width="48" height="48" />
-
+</div>
+<div>
 <img src="./assets/icons/css.svg" title="CSS" width="48" height="48" />
 <img src="./assets/icons/sass.svg" title="Sass" width="48" height="48" />
 <img src="./assets/icons/tailwind.svg" title="Tailwind CSS" width="48" height="48" />
-
+</div>
+<div>
 <img src="./assets/icons/python.svg" title="Python" width="48" height="48" />
-
+</div>
 <br/>
 
 ### Tools
 
+<div>
 <img src="./assets/icons/vscode.svg" title="VsCode" width="48" height="48" />
 <img src="./assets/icons/jetbrains.svg" title="JetBrains" width="48" height="48" />
+</div>
 
 ---
 
@@ -41,10 +46,12 @@
 
 ### Learning
 
+<div>
 <img src="./assets/icons/typescript.svg" title="Typescript" width="48" height="48" />
 <img src="./assets/icons/rxjs.svg" title="RxJs" width="48" height="48" />
 <img src="./assets/icons/threejs.svg" title="ThreeJs" width="48" height="48" />
 <img src="./assets/icons/django.svg" title="Python Django" width="48" height="48" />
+</div>
 
 ---
 
