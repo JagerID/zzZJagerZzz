@@ -2,13 +2,13 @@
 
 ### Social Medias
 
-<a href="https://discord.com/channels/861886316475318282" target="_blank">
+<a href="https://discord.com/channels/861886316475318282">
   <img alt="Discord" title="Discord" height="48" width="48" src="./assets/icons/discord.svg" />
 </a>
-<a href="https://t.me/JagerID" target="_blank">
+<a href="https://t.me/JagerID">
   <img alt="Telegram" title="Telegram" height="48" width="48" src="./assets/icons/telegram.svg" />
 </a>
-<a href="https://github.com/zzZJagerZzz" target="_blank">
+<a href="https://github.com/zzZJagerZzz">
   <img alt="GitHub" title="GitHub" height="48" width="48" src="./assets/icons/github.svg">
 </a>
 
@@ -17,24 +17,38 @@
 ### Languages / Frameworks / etc
 
 <div>
-<img src="./assets/icons/javascript.svg" title="JavaScript" width="48" height="48"/>
-<img src="./assets/icons/react.svg" title="React" width="48" height="48" />
-<img src="./assets/icons/redux.svg" title="Redux" width="48" height="48" />
-</div>
-<div>
-<img src="./assets/icons/css.svg" title="CSS" width="48" height="48" />
-<img src="./assets/icons/sass.svg" title="Sass" width="48" height="48" />
-<img src="./assets/icons/tailwind.svg" title="Tailwind CSS" width="48" height="48" />
-</div>
-<div>
-<img src="./assets/icons/python.svg" title="Python" width="48" height="48" />
+<a href="https://www.javascript.com/">
+  <img src="./assets/icons/javascript.svg" title="JavaScript" width="48" height="48"/>
+</a>
+<a href="https://reactjs.org/">
+  <img src="./assets/icons/react.svg" title="React" width="48" height="48" />
+</a>
+<a href="https://redux.js.org/">
+  <img src="./assets/icons/redux.svg" title="Redux" width="48" height="48" />
+</a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">
+  <img src="./assets/icons/css.svg" title="CSS" width="48" height="48" />
+</a>
+<a href="https://sass-lang.com/">
+  <img src="./assets/icons/sass.svg" title="Sass" width="48" height="48" />
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="./assets/icons/tailwind.svg" title="Tailwind CSS" width="48" height="48" />
+</a>
+<a href="https://www.python.org/">
+  <img src="./assets/icons/python.svg" title="Python" width="48" height="48" />
+</a>
 </div>
 
 ### Tools
 
 <div>
-<img src="./assets/icons/vscode.svg" title="VsCode" width="48" height="48" />
-<img src="./assets/icons/jetbrains.svg" title="JetBrains" width="48" height="48" />
+<a href="https://code.visualstudio.com/">
+  <img src="./assets/icons/vscode.svg" title="VsCode" width="48" height="48" />
+</a>
+<a href="https://www.jetbrains.com/">
+  <img src="./assets/icons/jetbrains.svg" title="JetBrains" width="48"  height="48" />
+</a>
 </div>
 
 ---
@@ -42,10 +56,18 @@
 ### Learning
 
 <div>
-<img src="./assets/icons/typescript.svg" title="Typescript" width="48" height="48" />
-<img src="./assets/icons/rxjs.svg" title="RxJs" width="48" height="48" />
-<img src="./assets/icons/threejs.svg" title="ThreeJs" width="48" height="48" />
-<img src="./assets/icons/django.svg" title="Python Django" width="48" height="48" />
+<a href="https://www.typescriptlang.org/">
+  <img src="./assets/icons/typescript.svg" title="Typescript" width="48" height="48" />
+</a>
+<a href="https://rxjs.dev/">
+  <img src="./assets/icons/rxjs.svg" title="RxJs" width="48" height="48" />
+</a>
+<a href="https://threejs.org/">
+  <img src="./assets/icons/threejs.svg" title="ThreeJs" width="48" height="48" />
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="./assets/icons/django.svg" title="Python Django" width="48" height="48" />
+</a>
 </div>
 
 ---
