@@ -20,9 +20,11 @@
 <a href="https://www.javascript.com/">
   <img src="./assets/icons/javascript.svg" title="JavaScript" width="48" height="48"/>
 </a>
-<a href="https://www.python.org/">
-  <img src="./assets/icons/python.svg" title="Python" width="48" height="48" />
+<a href="https://www.typescriptlang.org/">
+  <img src="./assets/icons/typescript.svg" title="Typescript" width="48" height="48" />
 </a>
+
+<br />
 
 <a href="https://vuejs.org/">
   <img src="./assets/icons/vue.svg" title="Vue" width="48" height="48" />
@@ -30,16 +32,17 @@
 <a href="https://next.vuetifyjs.com/en/getting-started/installation/">
   <img src="./assets/icons/vuetifyjs.svg" title="Vuetify" width="48" height="48" />
 </a>
-
 <a href="https://reactjs.org/">
   <img src="./assets/icons/react.svg" title="React" width="48" height="48" />
 </a>
 <a href="https://redux.js.org/">
   <img src="./assets/icons/redux.svg" title="Redux" width="48" height="48" />
 </a>
-<a href="https://mui.com/">
-  <img src="./assets/icons/material-ui.svg" title="Material UI" width="48" height="48" />
+<a href="https://tanstack.com/query/v5/">
+  <img src="./assets/icons/react-query.svg" title="TanStack Query" width="48" height="48"/>
 </a>
+
+<br />
 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
   <img src="./assets/icons/css.svg" title="CSS" width="48" height="48" />
@@ -49,6 +52,12 @@
 </a>
 <a href="https://tailwindcss.com/">
   <img src="./assets/icons/tailwind.svg" title="Tailwind CSS" width="48" height="48" />
+</a>
+
+<br />
+
+<a href="https://www.python.org/">
+  <img src="./assets/icons/python.svg" title="Python" width="48" height="48" />
 </a>
 
 </div>
@@ -69,9 +78,6 @@
 ### Learning
 
 <div>
-<a href="https://www.typescriptlang.org/">
-  <img src="./assets/icons/typescript.svg" title="Typescript" width="48" height="48" />
-</a>
 <a href="https://svelte.dev/">
   <img src="./assets/icons/svelte.svg" title="Svelte" width="48" height="48"/>
 </a>
@@ -80,9 +86,6 @@
 </a>
 <a href="https://threejs.org/">
   <img src="./assets/icons/threejs.svg" title="ThreeJs" width="48" height="48" />
-</a>
-<a href="https://www.djangoproject.com/">
-  <img src="./assets/icons/django.svg" title="Python Django" width="48" height="48" />
 </a>
 </div>
 
