@@ -81,9 +81,6 @@
 <a href="https://svelte.dev/">
   <img src="./assets/icons/svelte.svg" title="Svelte" width="48" height="48"/>
 </a>
-<a href="https://rxjs.dev/">
-  <img src="./assets/icons/rxjs.svg" title="RxJs" width="48" height="48" />
-</a>
 <a href="https://threejs.org/">
   <img src="./assets/icons/threejs.svg" title="ThreeJs" width="48" height="48" />
 </a>
