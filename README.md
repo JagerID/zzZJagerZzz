@@ -23,6 +23,9 @@
 <a href="https://www.typescriptlang.org/">
   <img src="./assets/icons/typescript.svg" title="Typescript" width="48" height="48" />
 </a>
+<a href="https://www.rust-lang.org/">
+  <img src="./assets/icons/rust.svg" title="Rust" width="48" height="48" />
+</a>
 
 <br />
 
@@ -83,9 +86,6 @@
 </a>
 <a href="https://threejs.org/">
   <img src="./assets/icons/threejs.svg" title="ThreeJs" width="48" height="48" />
-</a>
-<a href="https://www.rust-lang.org/">
-  <img src="./assets/icons/rust.svg" title="Rust" width="48" height="48" />
 </a>
 </div>
 
